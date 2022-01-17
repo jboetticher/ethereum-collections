@@ -1,0 +1,26 @@
+{
+    "name": "@jboetticher/solidity-collections",
+    "description": "Collections for Solidity",
+    "version": "0.0.1",
+    "files": [
+      "**/*.sol",
+      "/build/contracts/*.json",
+      "!/mocks/**/*"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/jboetticher/solidity-collections.git"
+    },
+    "keywords": [
+      "solidity",
+      "ethereum",
+      "smart",
+      "contracts",
+      "collections"
+    ],
+    "author": "Jeremy Boetticher <boetticher@wisc.edu>",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/jboetticher/solidity-collections/issues"
+    }
+  }
